@@ -1,15 +1,14 @@
-# 🐸 
+# 👋!
 
 progredindo com meus estudos relacionados ao desenvolvimento front-end  🖥️
 
 ## Conhecimentos
 
--HTML
--CSS
--JavaScript
-
-
-
+ 
+ 
+HTML          | 
+CSS           |
+JavaScript    |
 
 
 <!---
