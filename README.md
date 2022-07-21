@@ -1,11 +1,15 @@
-# 👋 Hi there ! 
+# 🐸 
 
-I'm Bruno and i'm a WebDeveloper 🖥️
+progredindo com meus estudos relacionados ao desenvolvimento front-end  🖥️
 
-## Technologies
+## Conhecimentos
 
-<img src="https://user-images.githubusercontent.com/104644772/180076903-9d2a145e-3950-4e91-a58a-6dd3cc4670d2.png" height="60"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="60">
+-HTML
+-CSS
+-JavaScript
+
+
+
 
 
 <!---
